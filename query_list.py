@@ -1,0 +1,5 @@
+query_category_links = []
+res_category_links_url = []
+query_category_names_main = []
+category_id = []
+sub_categories =[]
